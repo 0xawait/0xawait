@@ -13,4 +13,5 @@
     <img src="https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-06B6D4?style=flat-square&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-7C3AED?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-06B6D4?style=flat-square&logo=typescript&logoColor=white" />
 </p>
